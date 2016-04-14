@@ -7,6 +7,7 @@ RUN apt-get update -y && \
     texlive-latex-extra \
     texlive-xetex \
     texlive-fonts-recommended \
+    latex-xcolor \
     lmodern \
     fontconfig \
     make \
